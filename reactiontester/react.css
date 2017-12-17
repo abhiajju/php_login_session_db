@@ -1,0 +1,45 @@
+#shape {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: relative;
+	top: 50px;
+	left: 50px;
+	display: none;
+}
+
+.form {
+	width: 100%;
+	margin-top: 50px;
+	margin-left: 250px;
+}
+
+.label-form {
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+input {
+	width: 200px;
+	padding: 5px;
+	padding-left: 15px;
+}
+
+label {
+	position: relative;
+	font-size: 20px;
+	top: 4px;
+	width: 180px;
+	float: left;
+}
+
+#sbmt {
+	width: 80px;
+	padding-right: 15px;
+	margin-left: 194px;
+}
+
+#err {
+	color: red;
+}
+
